@@ -12,8 +12,8 @@ import getpass
 import urllib.request
 # [] #
 
-username = ('01048293899')
-password = ('a41309294')
+username = ('')
+password = ('')
 hashTag = input("Input HashTag # : ")# Search #
 
 checkTag = hashTag.find('#')
